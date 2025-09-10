@@ -1,0 +1,7 @@
+Algoritmo ejercicio3 
+	
+	//1. variable real (precio) 
+	Definir precio Como Real
+	precio<- 35.000
+	Escribir  " El precio del articulo es " , precio
+FinAlgoritmo

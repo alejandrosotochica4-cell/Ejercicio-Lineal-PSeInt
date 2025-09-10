@@ -1,0 +1,8 @@
+Algoritmo ejercicio2
+	
+	// 1. variable entera (edad)
+	Definir edad Como Entero
+	edad<- 18 
+	Escribir "tu edad es " , edad , " años "
+
+FinAlgoritmo
